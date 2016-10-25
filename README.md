@@ -1,4 +1,6 @@
 # hello-world
-Changed file!
+*Changed file!
 
-New version changed locally!
+*New version changed locally!
+
+*A change from zoo.
